@@ -34,7 +34,7 @@ body {
   font-family: "Barlow Semi Condensed", sans-serif;
   font-size: 13px;
   height: 100vh;
-  background-color: var(--neutral-color-light-gray);
+  background-color: var(--neutral-color-light-grayish-blue);
   display: grid;
   place-items: center;
 }
